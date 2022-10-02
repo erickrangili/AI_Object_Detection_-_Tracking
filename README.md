@@ -1,0 +1,2 @@
+# AI_Object_Detection_-_Tracking
+Contains projects and problems solved using AI object detection and tracking concepts such as OpenCV, frame differencing, tracking objects using colorspaces, background subtraction, building an interactive object tracker using the CAMshift algorithm, optical flow based tracking, face detection and tracking, using Haars cascade for object detection, using integral images for feature extraction, eye detection and tracking etc.
